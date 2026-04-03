@@ -1,0 +1,12 @@
+# Chặn toàn bộ mã nguồn để bảo mật
+src/
+pom.xml
+proguard.conf
+.idea/
+.vscode/
+target/
+
+# Chỉ cho phép file README và các tài liệu hướng dẫn
+!README.md
+!LICENSE
+!images/
