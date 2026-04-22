@@ -9,4 +9,4 @@ target/
 # Chỉ cho phép file README và các tài liệu hướng dẫn
 !README.md
 !LICENSE
-!images/
+!assets/
