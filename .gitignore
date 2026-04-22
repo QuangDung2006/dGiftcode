@@ -10,3 +10,10 @@ target/
 !README.md
 !LICENSE
 !assets/
+
+# Các file rác và file tạm
+*.log
+*.iml
+dependency-reduced-pom.xml
+.DS_Store
+
